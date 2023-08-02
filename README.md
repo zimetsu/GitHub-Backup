@@ -6,7 +6,7 @@ Schedule cron jobs to backup your repositories.
 # Setup
 1. Run the following commands.
 ```
-$ git clone git@github.com:akashaviator/github-backup.git
+$ git clone git@github.com:https:zimetsu/GitHub-Backup.git
 $ cd github-backup
 $ docker-compose up
 ```
